@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{39D1DAF6-D3B3-46B3-A225-1D5428C88DA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{26383681-29E2-4676-AB26-4F408EF9CBBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalTracking", "PersonalTracking\PersonalTracking.csproj", "{FA823889-CA43-44A4-BB23-607F979584B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D1DAF6-D3B3-46B3-A225-1D5428C88DA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D1DAF6-D3B3-46B3-A225-1D5428C88DA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D1DAF6-D3B3-46B3-A225-1D5428C88DA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D1DAF6-D3B3-46B3-A225-1D5428C88DA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26383681-29E2-4676-AB26-4F408EF9CBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26383681-29E2-4676-AB26-4F408EF9CBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26383681-29E2-4676-AB26-4F408EF9CBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26383681-29E2-4676-AB26-4F408EF9CBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA823889-CA43-44A4-BB23-607F979584B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA823889-CA43-44A4-BB23-607F979584B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA823889-CA43-44A4-BB23-607F979584B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA823889-CA43-44A4-BB23-607F979584B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07AD53F9-2EDA-4F79-9A55-E459CBC3BF8F}
+	EndGlobalSection
+EndGlobal
